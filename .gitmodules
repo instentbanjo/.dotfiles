@@ -1,0 +1,6 @@
+[submodule "core/nvim/.config/nvim"]
+	path = core/nvim/.config/nvim
+	url = https://github.com/instentbanjo/nvim
+[submodule "core/ghostty/.config/ghostty"]
+	path = core/ghostty/.config/ghostty
+	url = https://github.com/instentbanjo/ghostty
