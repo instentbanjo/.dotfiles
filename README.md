@@ -10,3 +10,9 @@ The best terminal emulator in town
 stow -d ~/.dotfiles/core -t ~ ghostty
 ```
 
+# .zshrc & .p10k.zsh
+
+```bash
+stow -d ~/.dotfiles/core -t ~ zsh
+```
+
